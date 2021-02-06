@@ -1,4 +1,4 @@
-let ipurl = 'http://127.0.0.1:7001/admin/'
+let ipurl = 'http://159.75.115.252:7001/admin/'
 
 let servicePath = { 
   checkLogin : ipurl + 'checkLogin',
