@@ -1,5 +1,6 @@
 let ipurl = 'http://159.75.115.252:7001/admin/'
 
+
 let servicePath = { 
   checkLogin : ipurl + 'checkLogin',
   getTypeInfo: ipurl + 'getTypeInfo' , // 获取文章分类
